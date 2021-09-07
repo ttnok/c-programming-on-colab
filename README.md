@@ -1,5 +1,5 @@
 # c-programming-on-colab
-Google Colaboratory を利用して C 言語入門
+Google Colaboratory を利用して C 言語入門のための環境づくり
 
 ## Google Colaboratory 上でプログラミング入門を行う利点
 
