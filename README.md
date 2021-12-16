@@ -35,13 +35,15 @@ Google Colaboratory を利用して C 言語入門のための環境づくり
 ## 外部アプリ埋め込みの例
 
 - Scratch
-    -　https://scratch.mit.edu/
-    -　アルゴリズムの説明などに利用
-    -　課題で作成すべきプログラムの動作イメージの説明に利用 
+    - https://scratch.mit.edu/
+    - アルゴリズムの説明などに利用
+    - 課題で作成すべきプログラムの動作イメージの説明に利用 
+    - ノートブックの例：https://github.com/ttnok/c-programming-on-colab/blob/main/3%E6%95%B0%E3%81%AE%E6%9C%80%E5%A4%A7%E5%80%A4.ipynb
 - micro:bit（MakeCode）
+    - https://makecode.microbit.org/ 
 - Python Tutor
     - https://pythontutor.com/ 
-    -　各種言語を行ごとに実行し、変数内容などを随時表示するサービス 
+    - 各種言語を行ごとに実行し、変数内容などを随時表示するサービス 
     - Python だけでなく、Java、C、C++、JavaScript、Ruby も対応
 - Desmos
     - https://www.desmos.com/
